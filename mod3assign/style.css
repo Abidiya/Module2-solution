@@ -1,0 +1,63 @@
+.nav-link:hover{
+	background-color: grey;
+}
+.navbar{
+	border-radius: 0px;
+	background-color: rgba(0,0,0,0.8);
+}
+.navbar-nav{
+  font-size: 20px;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+.navbar-brand{
+  font-size: 35px;
+  color: white;
+  padding-left: 25px;
+}
+
+.navbar-brand
+    {
+      font-size: 40px !important;
+    }
+h1{
+    margin-bottom: 15px;
+    text-align: center;
+    color: #ff4532;
+    font-size: 50px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-weight: bold;
+}
+li{
+  box-sizing: border-box;
+  width: 100%;
+}
+.box{
+	 width: auto;
+   height: auto;
+	 margin:20px;
+  border: 0;
+  padding: 40px;
+  margin: 25px;
+  background-color:lightgrey;
+}
+.item-name{
+	color:black;
+	text-align: center;
+	font-weight: 10px bold;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 25px;
+}
+ .navbarSupportedContent {
+    background-color: red;
+
+#top{
+
+}
+#top{
+
+}
+a {
+  text-decoration: none;
+}
